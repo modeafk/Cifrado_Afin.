@@ -34,17 +34,10 @@ correspondientes a las letras del alfabeto en base a esta tabla
 
 Descifrado:
 
-Es preciso invertir (mod 26) la formula de cifrado con el fin de expresar [x] en función de [y]
-Y=ax + b, ecuación para cifrado. Restemos b
-Y – b = ax. Para eliminar a, debemos multiplicarlo por su inversa ya que [a-1] . [a]=1
+-Para descifrar la cadena ingresada, haremos uso de una clave de ("a","b" y una cadena predefinida por 27 caracteres que serian los las letras del abecedario(De la letra A a la Z)
+-
 
-[a-1](y-b)=x
 
-La ecuación de descifrado es pues x= [a-1](y-b) (mod 26). Si el paréntesis (y-b) resulta negativo basta con añadir 26 antes de multiplicarlo por [a-1]
-
-Ejemplo de descifrado
-
-Descifremos el mensaje que hemos calculado anteriormente. Como [a=9], [a-1]=3. La formula de descifrado es pues x=3(y-4) (mod 26)
 
 
 ![image](https://user-images.githubusercontent.com/90937895/165884737-9c9b97d4-d51f-4d1c-8cbd-aca64f042803.png)
