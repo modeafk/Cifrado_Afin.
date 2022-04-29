@@ -32,10 +32,6 @@ correspondientes a las letras del alfabeto en base a esta tabla
  ![image](https://user-images.githubusercontent.com/90937895/165884683-969ec4b6-d7d7-479a-ae1c-872790fb9cc1.png)
 
 
-
-![image](https://user-images.githubusercontent.com/90937895/165884875-8a2cb758-75b1-4852-92b9-50aaad4522df.png)
-
-
 Descifrado:
 
 Es preciso invertir (mod 26) la formula de cifrado con el fin de expresar [x] en función de [y]
