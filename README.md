@@ -26,10 +26,13 @@ Para poder aplicar la función matemática lo primero que hay que hacer es asign
 
 Cifrado:
 
-La idea consiste en usar como función de cifrado una función afín del tipo y=ax+b en las que [a] y [b] son constantes, y en las que [x] e [y] son números 
-correspondientes a las letras del alfabeto en base a esta tabla
+- Para descifrar la cadena ingresada, haremos uso de una clave de ("a","b" y una cadena predefinida por 27 caracteres que serian los las letras del abecedario(De la
+ letra A a la Z)
+-Luego haremos uso de la siguiente ecuacion:
 
- ![image](https://user-images.githubusercontent.com/90937895/165884683-969ec4b6-d7d7-479a-ae1c-872790fb9cc1.png)
+![image](https://user-images.githubusercontent.com/90937895/165886369-fed73f15-176d-4cdc-bd39-1259ffb90cd3.png)
+
+![image](https://user-images.githubusercontent.com/90937895/165884683-969ec4b6-d7d7-479a-ae1c-872790fb9cc1.png)
 
 
 Descifrado:
@@ -40,8 +43,7 @@ Descifrado:
 ![image](https://user-images.githubusercontent.com/90937895/165885818-21ae22ec-ac84-43e3-80ee-04d72ca756cb.png)
 
  En donde "X" esta definido por el inverso de a,27 multiplicado por y-b y al final aplicaremos modulo de 27
-
-
+ Ademas, a' es el inverso y el par {a,b} seria la llave
 
 
 ![image](https://user-images.githubusercontent.com/90937895/165884737-9c9b97d4-d51f-4d1c-8cbd-aca64f042803.png)
