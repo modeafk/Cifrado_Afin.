@@ -24,7 +24,7 @@ Para hallar el símbolo del alfabeto cifrado que sustituye a un determinado sím
 Para poder aplicar la función matemática lo primero que hay que hacer es asignar un orden que a cada símbolo de cada uno de los alfabeto le asocie un número de orden.
 
 
-![image](https://user-images.githubusercontent.com/90937895/165886369-fed73f15-176d-4cdc-bd39-1259ffb90cd3.png)
+![image](https://user-images.githubusercontent.com/90937895/165884683-969ec4b6-d7d7-479a-ae1c-872790fb9cc1.png)
 
 
 Cifrado:
@@ -32,7 +32,9 @@ Cifrado:
 - Para cifrar haremos uso de la cadena ingresada, haremos uso de una clave de ("a","b" y una cadena predefinida por 27 caracteres que serian los las letras del abecedario(De la letra A a la Z)
 -Luego haremos uso de la siguiente ecuacion:
 
-![image](https://user-images.githubusercontent.com/90937895/165884683-969ec4b6-d7d7-479a-ae1c-872790fb9cc1.png)
+
+![image](https://user-images.githubusercontent.com/90937895/165886369-fed73f15-176d-4cdc-bd39-1259ffb90cd3.png)
+
 
  En donde "X" esta definido por el inverso de a,27 multiplicado por y-b y al final aplicaremos modulo de 27
 
