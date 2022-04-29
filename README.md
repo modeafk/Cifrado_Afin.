@@ -53,16 +53,15 @@ Descifrado:
  
 INSTRUCCIONES:
 
--El programa pedira al usuario ingresar una cadena para luego ver que es lo que se desea hacer, si es encriptar o desencriptar.
+1. El programa pedira al usuario ingresar una cadena para luego ver que es lo que se desea hacer, si es encriptar o desencriptar.
 
--Una vez seleccionada la opcion se procedera a encriptar o desencriptar la cadena.
+2. Una vez seleccionada la opcion se procedera a encriptar o desencriptar la cadena.
 
--Para la encriptacion o desencriptacion de la cadena se hara uso de una clave, los cuales seran los valores de a y b. Como bien sabemos el valor de "b" vendria a estar
-en el anillo de 0 a 27 y el valor de "a" tendria que ser coprimo con 27.
+3. Para la encriptacion o desencriptacion de la cadena se hara uso de una clave, los cuales seran los valores de a y b. Como bien sabemos el valor de "b" vendria a estar en el anillo de 0 a 27 y el valor de "a" tendria que ser coprimo con 27.
 
--Despues de ello el mensaje ingresado quedará encriptado o desencriptado segun lo que indico el usuario.
+4. Despues de ello el mensaje ingresado quedará encriptado o desencriptado segun lo que indico el usuario.
 
--El programa retorna una cadena con un mensaje encriptado o desencriptado.
+5. El programa retorna una cadena con un mensaje encriptado o desencriptado.
 
 SALIDA:
 
