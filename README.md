@@ -50,6 +50,11 @@ Descifrado:
 
 ![image](https://user-images.githubusercontent.com/90937895/165884737-9c9b97d4-d51f-4d1c-8cbd-aca64f042803.png)
 
+
+Descifrado a la fuerza:
+
+- Para descifrar haremos uso "SOLO" de la cadena ingresada, pero ya no usaremos claves pues recorreremos todas las posibles combinaciones o claves para poder descifrar el mensaje
+-  
  
 INSTRUCCIONES:
 
