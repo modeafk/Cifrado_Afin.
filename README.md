@@ -26,23 +26,22 @@ Para poder aplicar la función matemática lo primero que hay que hacer es asign
 
 Cifrado:
 
-- Para descifrar la cadena ingresada, haremos uso de una clave de ("a","b" y una cadena predefinida por 27 caracteres que serian los las letras del abecedario(De la
- letra A a la Z)
+- Para cifrar haremos uso de la cadena ingresada, haremos uso de una clave de ("a","b" y una cadena predefinida por 27 caracteres que serian los las letras del abecedario(De la letra A a la Z)
 -Luego haremos uso de la siguiente ecuacion:
 
 ![image](https://user-images.githubusercontent.com/90937895/165886369-fed73f15-176d-4cdc-bd39-1259ffb90cd3.png)
 
 ![image](https://user-images.githubusercontent.com/90937895/165884683-969ec4b6-d7d7-479a-ae1c-872790fb9cc1.png)
 
+ En donde "X" esta definido por el inverso de a,27 multiplicado por y-b y al final aplicaremos modulo de 27
 
 Descifrado:
-- Para descifrar la cadena ingresada, haremos uso de una clave de ("a","b" y una cadena predefinida por 27 caracteres que serian los las letras del abecedario(De la
- letra A a la Z)
+- Para descifrar haremos uso de la cadena ingresada, haremos uso de una clave de ("a","b" y una cadena predefinida por 27 caracteres que serian los las letras del abecedario(De la letra A a la Z)
 -Luego haremos uso de la siguiente ecuacion:
 
 ![image](https://user-images.githubusercontent.com/90937895/165885818-21ae22ec-ac84-43e3-80ee-04d72ca756cb.png)
 
- En donde "X" esta definido por el inverso de a,27 multiplicado por y-b y al final aplicaremos modulo de 27
+ En donde "y" esta definido por el inverso de a,27 multiplicado por y-b y al final aplicaremos modulo de 27
  Ademas, a' es el inverso y el par {a,b} seria la llave
 
 
@@ -61,8 +60,12 @@ en el anillo de 0 a 27 y el valor de "a" tendria que ser coprimo con 27.
 -Despues de ello el mensaje ingresado quedará encriptado o desencriptado segun lo que indico el usuario.
 
 -El programa retorna una cadena con un mensaje encriptado o desencriptado.
- 
- 
-![image](https://user-images.githubusercontent.com/101947482/162352821-c8164f0f-0cc6-4253-9516-79360b465d9d.png)
+
+SALIDA:
+
+ ![image](https://user-images.githubusercontent.com/90937895/165886800-684b462f-90c7-4afb-9dfc-c50ac77f6405.png)
+
+ ![image](https://user-images.githubusercontent.com/90937895/165886830-5504f77e-334b-4812-8f8d-a49ee0f74a5e.png)
+
 
 
