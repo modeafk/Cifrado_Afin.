@@ -53,9 +53,9 @@ Descifrado:
 
 Descifrado a la fuerza:
 
-- Para descifrar haremos uso "SOLO" de la cadena ingresada, pero ya no usaremos claves pues recorreremos todas las posibles combinaciones o claves para poder descifrar el mensaje
--  
- 
+- Para descifrar haremos uso "SOLO" de la cadena ingresada, pero ya no usaremos claves pues recorreremos todas las posibles combinaciones o claves para poder descifrar el mensaje.
+
+
 INSTRUCCIONES:
 
 1. El programa pedira al usuario ingresar una cadena para luego ver que es lo que se desea hacer, si es encriptar o desencriptar.
@@ -73,6 +73,11 @@ SALIDA:
  ![image](https://user-images.githubusercontent.com/90937895/165886800-684b462f-90c7-4afb-9dfc-c50ac77f6405.png)
 
  ![image](https://user-images.githubusercontent.com/90937895/165886830-5504f77e-334b-4812-8f8d-a49ee0f74a5e.png)
+ 
+ ![image](https://user-images.githubusercontent.com/90937895/165888536-72b144ec-9424-4c76-b121-284977aaab0a.png)
+
+ ![image](https://user-images.githubusercontent.com/90937895/165888672-8f291f3a-8031-4925-8d30-7883f361f225.png)
+
 
 
 
