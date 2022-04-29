@@ -36,7 +36,7 @@ Cifrado:
 ![image](https://user-images.githubusercontent.com/90937895/165886369-fed73f15-176d-4cdc-bd39-1259ffb90cd3.png)
 
 
- En donde "X" esta definido por el inverso de a,27 multiplicado por y-b y al final aplicaremos modulo de 27
+ En donde "y" esta definido por el inverso de a,27 multiplicado por y-b y al final aplicaremos modulo de 27
 
 Descifrado:
 - Para descifrar haremos uso de la cadena ingresada, haremos uso de una clave de ("a","b" y una cadena predefinida por 27 caracteres que serian los las letras del abecedario(De la letra A a la Z)
@@ -44,7 +44,7 @@ Descifrado:
 
 ![image](https://user-images.githubusercontent.com/90937895/165885818-21ae22ec-ac84-43e3-80ee-04d72ca756cb.png)
 
- En donde "y" esta definido por el inverso de a,27 multiplicado por y-b y al final aplicaremos modulo de 27
+ En donde "x" esta definido por el inverso de a,27 multiplicado por y-b y al final aplicaremos modulo de 27
  Ademas, a' es el inverso y el par {a,b} seria la llave
 
 
