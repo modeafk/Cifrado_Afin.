@@ -23,9 +23,14 @@ del alfabeto cifrado (el alfabeto del texto cifrado) siendo el número de símbo
 Para hallar el símbolo del alfabeto cifrado que sustituye a un determinado símbolo del alfabeto en claro, se usa una función matemática afín en aritmética modular. 
 Para poder aplicar la función matemática lo primero que hay que hacer es asignar un orden que a cada símbolo de cada uno de los alfabeto le asocie un número de orden.
 
+
 Cifrado:
+
 La idea consiste en usar como función de cifrado una función afín del tipo y=ax+b en las que [a] y [b] son constantes, y en las que [x] e [y] son números 
 correspondientes a las letras del alfabeto en base a esta tabla
+
+ ![image](https://user-images.githubusercontent.com/90937895/165884683-969ec4b6-d7d7-479a-ae1c-872790fb9cc1.png)
+
 
 Descifrado:
 
@@ -41,9 +46,8 @@ Ejemplo de descifrado
 
 Descifremos el mensaje que hemos calculado anteriormente. Como [a=9], [a-1]=3. La formula de descifrado es pues x=3(y-4) (mod 26)
 
- 
- ![image](https://user-images.githubusercontent.com/101947482/162351477-c0b936fa-b1de-4e40-b042-76424b6db7a2.png)
 
+![image](https://user-images.githubusercontent.com/90937895/165884737-9c9b97d4-d51f-4d1c-8cbd-aca64f042803.png)
 
  
 INSTRUCCIONES:
