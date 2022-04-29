@@ -33,9 +33,13 @@ correspondientes a las letras del alfabeto en base a esta tabla
 
 
 Descifrado:
+- Para descifrar la cadena ingresada, haremos uso de una clave de ("a","b" y una cadena predefinida por 27 caracteres que serian los las letras del abecedario(De la
+ letra A a la Z)
+-Luego haremos uso de la siguiente ecuacion:
 
--Para descifrar la cadena ingresada, haremos uso de una clave de ("a","b" y una cadena predefinida por 27 caracteres que serian los las letras del abecedario(De la letra A a la Z)
--
+![image](https://user-images.githubusercontent.com/90937895/165885818-21ae22ec-ac84-43e3-80ee-04d72ca756cb.png)
+
+ En donde "X" esta definido por el inverso de a,27 multiplicado por y-b y al final aplicaremos modulo de 27
 
 
 
