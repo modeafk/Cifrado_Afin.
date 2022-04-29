@@ -52,11 +52,16 @@ Descifremos el mensaje que hemos calculado anteriormente. Como [a=9], [a-1]=3. L
  
 INSTRUCCIONES:
 
--El programa pedira al usuario ingresar 2 numeros, el primer para darle el valor de "a", el segundo para darle el valor de "b"
+-El programa pedira al usuario ingresar una cadena para luego ver que es lo que se desea hacer, si es encriptar o desencriptar.
 
--Una vez ingresado los numeros, el pograma hallara el m.c.d de esos numeros y los imprimira en pantalla.
+-Una vez seleccionada la opcion se procedera a encriptar o desencriptar la cadena.
 
--El programa se encargara de botar los resultados en pantalla tanto el mcd como los valores respectivos de "x" y "y"
+-Para la encriptacion o desencriptacion de la cadena se hara uso de una clave, los cuales seran los valores de a y b. Como bien sabemos el valor de "b" vendria a estar
+en el anillo de 0 a 27 y el valor de "a" tendria que ser coprimo con 27.
+
+-Despues de ello el mensaje ingresado quedará encriptado o desencriptado segun lo que indico el usuario.
+
+-El programa retorna una cadena con un mensaje encriptado o desencriptado.
  
  
 ![image](https://user-images.githubusercontent.com/101947482/162352821-c8164f0f-0cc6-4253-9516-79360b465d9d.png)
